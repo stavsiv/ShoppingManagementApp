@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829982320594",
+    "project_id": "shoppingmanagementapp-hit",
+    "storage_bucket": "shoppingmanagementapp-hit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829982320594:android:0b0dbf95400995aa388a0b",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmzyJNrlk-LdWvxesUQLO5bpzLSZ-74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
